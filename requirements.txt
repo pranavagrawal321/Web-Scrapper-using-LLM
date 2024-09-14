@@ -1,0 +1,6 @@
+streamlit
+selenium
+bs4
+langchain
+langchain_ollama
+langchain_core
